@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>891845627636-j7rge520djo0isilbk2jjgna7461a94k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.891845627636-j7rge520djo0isilbk2jjgna7461a94k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKSLreNs4sQedD4Y8sfeGgP-lXFQEbyQI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>891845627636</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AlbanLouisLucas.Hawk</string>
+	<key>PROJECT_ID</key>
+	<string>hawk-4fcbf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hawk-4fcbf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:891845627636:ios:4441d18471fab430a8d8a1</string>
+</dict>
+</plist>
